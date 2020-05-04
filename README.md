@@ -24,3 +24,8 @@ For this program, the first x has a default value of 0.4 for convenience. And it
 Using XOR here could make Decode and Encode to be same program which would make life easier
 
 # More proves and graphs will be given later
+Information of this equation could be found at:
+https://www.youtube.com/watch?v=ovJcsL7vyrk
+
+For Chinese User:
+https://www.bilibili.com/video/BV1B7411W7LB
